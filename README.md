@@ -12,4 +12,4 @@ docker run -p 8080:8080 homeexercise
 
 # Approach 2 - Pull from Docker Hub
 
-docker run -p 8080:8080 homeexercise
+docker run -p 8080:8080 pavanbuddi1/homeexercise
