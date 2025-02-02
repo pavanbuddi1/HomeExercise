@@ -6,8 +6,8 @@ There are two approaches to run the application
 
 # Approach 1 -  Clone this repo and use the below docker commands 
 
-cd /path/to/repo
-docker build -t homeexercise .
+cd /path/to/repo <br />
+docker build -t homeexercise . <br />
 docker run -p 8080:8080 homeexercise
 
 # Approach 2 - Pull from Docker Hub
